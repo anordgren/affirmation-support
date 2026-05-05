@@ -1,6 +1,6 @@
 # Support
 
-Help and contact information for the Affirmation app.
+Help and contact information for the Serenity app.
 
 ## Contact
 
@@ -15,7 +15,7 @@ We usually respond within 24-48 hours.
 Open Settings to choose your vibes, adjust the card style, change themes, and update the refresh frequency for the app and widget.
 
 ### How do I add the widget?
-Long-press your Home Screen, tap the add button, search for **Affirmation**, and choose the widget size you want.
+Long-press your Home Screen, tap the add button, search for **Serenity**, and choose the widget size you want.
 
 ### Where is my data stored?
 Your settings, saved affirmations, and custom affirmations are stored locally on your device.
@@ -35,7 +35,7 @@ If something is not working as expected, please include:
 
 ## Feature Requests
 
-Have an idea to improve Affirmation? Send it to us. User feedback helps shape future updates.
+Have an idea to improve Serenity? Send it to us. User feedback helps shape future updates.
 
 ## Privacy & Terms
 
@@ -44,4 +44,4 @@ Have an idea to improve Affirmation? Send it to us. User feedback helps shape fu
 
 ## About
 
-Affirmation is designed to bring curated affirmations, custom vibes, and widget-friendly calm to your daily routine.
+Serenity is designed to bring curated affirmations, custom vibes, and widget-friendly calm to your daily routine.
