@@ -1,6 +1,6 @@
 # Support
 
-Help and contact information for the Affirmation app.
+Help and contact information for the Serenity app.
 
 ## Contact
 
