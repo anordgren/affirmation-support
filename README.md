@@ -41,7 +41,7 @@ If something is not working as expected, please include:
 
 ## Feature Requests
 
-Have an idea to improve Affirmation? Send it to us. User feedback helps shape future updates.
+Have an idea to improve Serenity? Send it to us. User feedback helps shape future updates.
 
 ---
 
@@ -54,4 +54,4 @@ Have an idea to improve Affirmation? Send it to us. User feedback helps shape fu
 
 ## About
 
-Affirmation is designed to bring curated affirmations, custom vibes, and widget-friendly calm to your daily routine.
+Serenity is designed to bring curated affirmations, custom vibes, and widget-friendly calm to your daily routine.
