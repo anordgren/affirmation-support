@@ -17,7 +17,7 @@ We usually respond within 24-48 hours.
 Open Settings to choose your vibes, adjust the card style, change themes, and update the refresh frequency for the app and widget.
 
 ### How do I add the widget?
-Long-press your Home Screen, tap the add button, search for **Affirmation**, and choose the widget size you want.
+Long-press your Home Screen, tap the add button, search for **Serenity**, and choose the widget size you want.
 
 ### Where is my data stored?
 Your settings, saved affirmations, and custom affirmations are stored locally on your device.
